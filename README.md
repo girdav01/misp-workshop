@@ -8,7 +8,9 @@ Material is in English, session was delivered in French for Hackfest audience.
 Trainer : David_Girard at trendmicro.com, Sr Security Researcher
 
 The training MISP we are going to use is at :
-https://ec2-54-157-205-95.compute-1.amazonaws.com
+https://ec2-54-157-205-95.compute-1.amazonaws.com   (available during the training, until November 3rd)
+
+Note : To setup your own in AWS : https://github.com/MISP/misp-cloud
 
 We use MISP version 2.96 during the Workshop but any version 2.84+ works.
 
